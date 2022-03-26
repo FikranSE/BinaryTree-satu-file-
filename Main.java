@@ -1,4 +1,4 @@
-//Node
+//NODE
 class Node {
     int key;
     Node left, right;
@@ -11,7 +11,7 @@ class Node {
 }
 
 
-//Leaf
+//LEAF
 class BinaryTree {
     // akar
     Node root;
@@ -67,7 +67,7 @@ class BinaryTree {
     void printPreorder() { printPreorder(root); }
 }
 
-//Binary Traversal 
+//BINARY TRAVERSAL
 public class Main{
     public static void main(String[] args)
     {
